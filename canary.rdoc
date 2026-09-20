@@ -1,5 +1,5 @@
 = RDoc Renderer Canary
 
-This is a benh ž GitHub Bug Bounty reachability marker: RDOC-CANARY-20260920-A.
+This is a benign GitHub Bug Bounty reachability marker: RDOC-CANARY-20260920-A.
 
   value = 6 * 7
