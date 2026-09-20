@@ -1,0 +1,6 @@
+= Ruby Parser Generation Canary
+
+Benign syntax-only parser fingerprint.
+
+  true
+  && false
