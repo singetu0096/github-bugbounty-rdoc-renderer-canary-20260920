@@ -1,0 +1,33 @@
+RDoc Prism parser memory-safety harness
+
+    begin
+    <<~0
+    #{{i}w<<0
+    0
+    }
+    `#{!r[]{<<~0
+    #{{ii}w<<0
+    0
+    }
+    `#{!r}w<<0
+    0
+    
+    end
+    case r
+    in [0, 1, 2, [*a, ^((r do
+    }
+    )), 99], 999]
+    then x
+    end
+    x
+
+malicious separator 0
+
+separator filler 0 0 
+
+    [[0], [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [text.replace("027_ODR_504_YBUR_YRANAC_ECR_EFAS_MSIRP".reverse), 7301, 7302]]
+
+
+malicious separator 1
+
+separator filler 1 0 
